@@ -67,7 +67,7 @@
     "bodymovin-to-smil": "^1.0.6",
     "escodegen": "^2.0.0",
     "esprima": "^4.0.1",
-    "jimp": "^0.3.7",
+    "jimp": "^0.12.0",
     "jszip": "^3.2.2",
     "png-to-jpeg": "^1.0.1",
     "react": "^16.5.0",
